@@ -661,3 +661,12 @@ gallery_line:nth-child(3) .box_img_gallery:nth-child(2) {
 .text_tm {
    text-align: center;
 }
+
+
+
+
+
+#Contacts .wrap{
+   display: flex;
+   justify-content: space-between;
+}
